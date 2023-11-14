@@ -1,3 +1,7 @@
+/*
+This class file contains the code pertaining to the
+general button that is used across the website
+*/
 import React from 'react';
 import './Button.css';
 import { Link } from 'react-router-dom';

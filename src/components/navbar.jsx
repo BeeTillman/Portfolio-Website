@@ -1,3 +1,7 @@
+/*
+This class file contains the code pertaining to the
+Navigation Bar located at the top of the website
+*/
 import React, {useState, useEffect} from 'react';
 import { Link } from 'react-router-dom';
 import './navbar.css';
